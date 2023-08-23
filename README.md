@@ -1,2 +1,2 @@
-# Intro-to-JS-frameworks---frontend-mentor
+# Intro-to-JS
 Projects for intro to JavaScript frameworks 
